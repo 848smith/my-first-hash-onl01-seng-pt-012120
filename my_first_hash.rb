@@ -1,5 +1,5 @@
 def my_hash
- your_hash = {"make" => "Chevrolet"}
+ your_hash = {"make" => "Chevrolet", "model" => "Camaro"}
  end
 
 
